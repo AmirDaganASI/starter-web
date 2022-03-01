@@ -1,1 +1,0 @@
-t atest of git ls-files
