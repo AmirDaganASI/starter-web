@@ -11,7 +11,7 @@ bla bla bla
 Adding bla bla
 
 ## How to contribute
-Adding more bla bla
+Fork then pull
 
 ### Copyright
 2022 bla
