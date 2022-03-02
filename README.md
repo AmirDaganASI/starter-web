@@ -13,3 +13,6 @@ Adding bla bla
 ## How to contribute
 Adding more bla bla
 
+### Copyright
+2022 bla
+
