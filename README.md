@@ -8,6 +8,8 @@ This example is to show different parts of the Git repository and various comman
 bla bla bla
 
 ## Deployment
+Adding bla bla
 
 ## How to contribute
+Adding more bla bla
 
