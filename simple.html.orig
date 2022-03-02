@@ -1,7 +1,10 @@
 <!DOCTYPE html>
 <!--
-	Copyright
-	MAIN && REALWORK
+<<<<<<< HEAD
+	main
+=======
+	realwork
+>>>>>>> realwork
 -->
 <head>
 	<title> An Example Website</title>
