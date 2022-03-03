@@ -14,5 +14,5 @@ Adding bla bla
 Fork then pull
 
 ### Copyright
-BLA
+BLA BLA
 
