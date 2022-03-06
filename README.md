@@ -14,5 +14,5 @@ Adding bla bla
 Fork then pull
 
 ### Copyright
-BLA BLA
+2014 Git.Training. All rights reserved.
 
